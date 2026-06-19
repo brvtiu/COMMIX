@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COMMIX
 new commix
 Modern Enterprise Platform
@@ -9,3 +10,6 @@ Modern Enterprise Platform
 - React + TypeScript (Upcoming)
 - Flutter (Upcoming)
 - Docker (Upcoming)
+=======
+# COMMIX
+>>>>>>> 82418172b9dc2ab25c71164f63dfb7b9e45e44a6
