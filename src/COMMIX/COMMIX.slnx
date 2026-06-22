@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="COMMIX.API/COMMIX.API.csproj" />
+  <Project Path="COMMIX.Application/COMMIX.Application.csproj" />
+  <Project Path="COMMIX.Domain/COMMIX.Domain.csproj" />
+  <Project Path="COMMIX.Infrastructure/COMMIX.Infrastructure.csproj" />
+  <Project Path="COMMIX.Shared/COMMIX.Shared.csproj" />
+</Solution>
